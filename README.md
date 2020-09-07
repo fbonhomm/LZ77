@@ -7,7 +7,7 @@
 
 ## Explanation
  - [English](documentation/explanation.en.md)
- - [Francais](documentation/explanation.fr.md)
+ - [Français](documentation/explanation.fr.md)
 
 ## Technology
 * go [v1.14](https://golang.org/)
